@@ -1,0 +1,264 @@
+3:Start of One Benchmark
+6:1073741824 bytes (1.1 GB) copied, 15.8429 s, 67.8 MB/s
+9:1073741824 bytes (1.1 GB) copied, 16.7074 s, 64.3 MB/s
+12:1073741824 bytes (1.1 GB) copied, 16.7051 s, 64.3 MB/s
+15:1073741824 bytes (1.1 GB) copied, 16.7074 s, 64.3 MB/s
+18:1073741824 bytes (1.1 GB) copied, 16.7042 s, 64.3 MB/s
+21:1073741824 bytes (1.1 GB) copied, 16.7049 s, 64.3 MB/s
+24:1073741824 bytes (1.1 GB) copied, 16.7187 s, 64.2 MB/s
+27:1073741824 bytes (1.1 GB) copied, 16.7001 s, 64.3 MB/s
+30:1073741824 bytes (1.1 GB) copied, 16.7091 s, 64.3 MB/s
+33:1073741824 bytes (1.1 GB) copied, 16.7072 s, 64.3 MB/s
+36:1073741824 bytes (1.1 GB) copied, 16.7068 s, 64.3 MB/s
+39:1073741824 bytes (1.1 GB) copied, 16.7081 s, 64.3 MB/s
+42:1073741824 bytes (1.1 GB) copied, 16.7048 s, 64.3 MB/s
+45:1073741824 bytes (1.1 GB) copied, 16.707 s, 64.3 MB/s
+48:1073741824 bytes (1.1 GB) copied, 16.7085 s, 64.3 MB/s
+51:1073741824 bytes (1.1 GB) copied, 16.7071 s, 64.3 MB/s
+54:1073741824 bytes (1.1 GB) copied, 16.7052 s, 64.3 MB/s
+57:1073741824 bytes (1.1 GB) copied, 16.7059 s, 64.3 MB/s
+58:Start of One Benchmark
+371:Start of One Benchmark
+390:Start of One Benchmark
+509:Start of One Benchmark
+512:1073741824 bytes (1.1 GB) copied, 15.8401 s, 67.8 MB/s
+515:1073741824 bytes (1.1 GB) copied, 16.719 s, 64.2 MB/s
+518:1073741824 bytes (1.1 GB) copied, 16.7046 s, 64.3 MB/s
+521:1073741824 bytes (1.1 GB) copied, 16.7077 s, 64.3 MB/s
+524:1073741824 bytes (1.1 GB) copied, 16.706 s, 64.3 MB/s
+527:1073741824 bytes (1.1 GB) copied, 16.7099 s, 64.3 MB/s
+530:1073741824 bytes (1.1 GB) copied, 16.7019 s, 64.3 MB/s
+533:1073741824 bytes (1.1 GB) copied, 16.7059 s, 64.3 MB/s
+536:1073741824 bytes (1.1 GB) copied, 16.711 s, 64.3 MB/s
+539:1073741824 bytes (1.1 GB) copied, 16.7075 s, 64.3 MB/s
+542:1073741824 bytes (1.1 GB) copied, 16.7053 s, 64.3 MB/s
+545:1073741824 bytes (1.1 GB) copied, 16.7078 s, 64.3 MB/s
+548:1073741824 bytes (1.1 GB) copied, 16.7034 s, 64.3 MB/s
+551:1073741824 bytes (1.1 GB) copied, 16.7056 s, 64.3 MB/s
+554:1073741824 bytes (1.1 GB) copied, 16.7053 s, 64.3 MB/s
+557:1073741824 bytes (1.1 GB) copied, 16.7069 s, 64.3 MB/s
+560:1073741824 bytes (1.1 GB) copied, 16.7063 s, 64.3 MB/s
+563:1073741824 bytes (1.1 GB) copied, 16.7057 s, 64.3 MB/s
+564:Start of One Benchmark
+877:Start of One Benchmark
+898:Start of One Benchmark
+1015:Start of One Benchmark
+1018:1073741824 bytes (1.1 GB) copied, 15.838 s, 67.8 MB/s
+1021:1073741824 bytes (1.1 GB) copied, 16.7074 s, 64.3 MB/s
+1024:1073741824 bytes (1.1 GB) copied, 16.7123 s, 64.2 MB/s
+1027:1073741824 bytes (1.1 GB) copied, 16.7099 s, 64.3 MB/s
+1030:1073741824 bytes (1.1 GB) copied, 16.7074 s, 64.3 MB/s
+1033:1073741824 bytes (1.1 GB) copied, 16.7055 s, 64.3 MB/s
+1036:1073741824 bytes (1.1 GB) copied, 16.7088 s, 64.3 MB/s
+1039:1073741824 bytes (1.1 GB) copied, 16.7067 s, 64.3 MB/s
+1042:1073741824 bytes (1.1 GB) copied, 16.7063 s, 64.3 MB/s
+1045:1073741824 bytes (1.1 GB) copied, 16.7119 s, 64.2 MB/s
+1048:1073741824 bytes (1.1 GB) copied, 16.71 s, 64.3 MB/s
+1051:1073741824 bytes (1.1 GB) copied, 16.7045 s, 64.3 MB/s
+1054:1073741824 bytes (1.1 GB) copied, 16.7109 s, 64.3 MB/s
+1057:1073741824 bytes (1.1 GB) copied, 16.7068 s, 64.3 MB/s
+1060:1073741824 bytes (1.1 GB) copied, 16.7048 s, 64.3 MB/s
+1063:1073741824 bytes (1.1 GB) copied, 16.7059 s, 64.3 MB/s
+1066:1073741824 bytes (1.1 GB) copied, 16.7137 s, 64.2 MB/s
+1069:1073741824 bytes (1.1 GB) copied, 16.7104 s, 64.3 MB/s
+1070:Start of One Benchmark
+1383:Start of One Benchmark
+1400:Start of One Benchmark
+1519:Start of One Benchmark
+1522:1073741824 bytes (1.1 GB) copied, 15.8451 s, 67.8 MB/s
+1525:1073741824 bytes (1.1 GB) copied, 16.707 s, 64.3 MB/s
+1528:1073741824 bytes (1.1 GB) copied, 16.7076 s, 64.3 MB/s
+1531:1073741824 bytes (1.1 GB) copied, 16.7083 s, 64.3 MB/s
+1534:1073741824 bytes (1.1 GB) copied, 16.7131 s, 64.2 MB/s
+1537:1073741824 bytes (1.1 GB) copied, 16.709 s, 64.3 MB/s
+1540:1073741824 bytes (1.1 GB) copied, 16.7078 s, 64.3 MB/s
+1543:1073741824 bytes (1.1 GB) copied, 16.7094 s, 64.3 MB/s
+1546:1073741824 bytes (1.1 GB) copied, 16.7055 s, 64.3 MB/s
+1549:1073741824 bytes (1.1 GB) copied, 16.7087 s, 64.3 MB/s
+1552:1073741824 bytes (1.1 GB) copied, 16.7073 s, 64.3 MB/s
+1555:1073741824 bytes (1.1 GB) copied, 16.713 s, 64.2 MB/s
+1558:1073741824 bytes (1.1 GB) copied, 16.7095 s, 64.3 MB/s
+1561:1073741824 bytes (1.1 GB) copied, 16.7081 s, 64.3 MB/s
+1564:1073741824 bytes (1.1 GB) copied, 16.7076 s, 64.3 MB/s
+1567:1073741824 bytes (1.1 GB) copied, 16.7068 s, 64.3 MB/s
+1570:1073741824 bytes (1.1 GB) copied, 16.7076 s, 64.3 MB/s
+1573:1073741824 bytes (1.1 GB) copied, 16.7075 s, 64.3 MB/s
+1574:Start of One Benchmark
+1887:Start of One Benchmark
+1904:Start of One Benchmark
+2023:Start of One Benchmark
+2026:1073741824 bytes (1.1 GB) copied, 15.8392 s, 67.8 MB/s
+2029:1073741824 bytes (1.1 GB) copied, 16.7045 s, 64.3 MB/s
+2032:1073741824 bytes (1.1 GB) copied, 16.7058 s, 64.3 MB/s
+2035:1073741824 bytes (1.1 GB) copied, 16.7062 s, 64.3 MB/s
+2038:1073741824 bytes (1.1 GB) copied, 16.708 s, 64.3 MB/s
+2041:1073741824 bytes (1.1 GB) copied, 16.7074 s, 64.3 MB/s
+2044:1073741824 bytes (1.1 GB) copied, 16.7076 s, 64.3 MB/s
+2047:1073741824 bytes (1.1 GB) copied, 16.7059 s, 64.3 MB/s
+2050:1073741824 bytes (1.1 GB) copied, 16.7066 s, 64.3 MB/s
+2053:1073741824 bytes (1.1 GB) copied, 16.7091 s, 64.3 MB/s
+2056:1073741824 bytes (1.1 GB) copied, 16.7042 s, 64.3 MB/s
+2059:1073741824 bytes (1.1 GB) copied, 16.7075 s, 64.3 MB/s
+2062:1073741824 bytes (1.1 GB) copied, 16.7046 s, 64.3 MB/s
+2065:1073741824 bytes (1.1 GB) copied, 16.709 s, 64.3 MB/s
+2068:1073741824 bytes (1.1 GB) copied, 16.7079 s, 64.3 MB/s
+2071:1073741824 bytes (1.1 GB) copied, 16.7075 s, 64.3 MB/s
+2074:1073741824 bytes (1.1 GB) copied, 16.7079 s, 64.3 MB/s
+2077:1073741824 bytes (1.1 GB) copied, 16.7147 s, 64.2 MB/s
+2078:Start of One Benchmark
+2391:Start of One Benchmark
+2410:Start of One Benchmark
+2527:Start of One Benchmark
+2530:1073741824 bytes (1.1 GB) copied, 15.8374 s, 67.8 MB/s
+2533:1073741824 bytes (1.1 GB) copied, 16.698 s, 64.3 MB/s
+2536:1073741824 bytes (1.1 GB) copied, 16.7098 s, 64.3 MB/s
+2539:1073741824 bytes (1.1 GB) copied, 16.7068 s, 64.3 MB/s
+2542:1073741824 bytes (1.1 GB) copied, 16.7064 s, 64.3 MB/s
+2545:1073741824 bytes (1.1 GB) copied, 16.7114 s, 64.3 MB/s
+2548:1073741824 bytes (1.1 GB) copied, 16.7111 s, 64.3 MB/s
+2551:1073741824 bytes (1.1 GB) copied, 16.7075 s, 64.3 MB/s
+2554:1073741824 bytes (1.1 GB) copied, 16.7109 s, 64.3 MB/s
+2557:1073741824 bytes (1.1 GB) copied, 16.7071 s, 64.3 MB/s
+2560:1073741824 bytes (1.1 GB) copied, 16.7074 s, 64.3 MB/s
+2563:1073741824 bytes (1.1 GB) copied, 16.7078 s, 64.3 MB/s
+2566:1073741824 bytes (1.1 GB) copied, 16.7152 s, 64.2 MB/s
+2569:1073741824 bytes (1.1 GB) copied, 16.711 s, 64.3 MB/s
+2572:1073741824 bytes (1.1 GB) copied, 16.7081 s, 64.3 MB/s
+2575:1073741824 bytes (1.1 GB) copied, 16.7086 s, 64.3 MB/s
+2578:1073741824 bytes (1.1 GB) copied, 16.704 s, 64.3 MB/s
+2581:1073741824 bytes (1.1 GB) copied, 16.7073 s, 64.3 MB/s
+2582:Start of One Benchmark
+2895:Start of One Benchmark
+2912:Start of One Benchmark
+3033:Start of One Benchmark
+3036:1073741824 bytes (1.1 GB) copied, 15.8405 s, 67.8 MB/s
+3039:1073741824 bytes (1.1 GB) copied, 16.7083 s, 64.3 MB/s
+3042:1073741824 bytes (1.1 GB) copied, 16.7074 s, 64.3 MB/s
+3045:1073741824 bytes (1.1 GB) copied, 16.7103 s, 64.3 MB/s
+3048:1073741824 bytes (1.1 GB) copied, 16.7095 s, 64.3 MB/s
+3051:1073741824 bytes (1.1 GB) copied, 16.709 s, 64.3 MB/s
+3054:1073741824 bytes (1.1 GB) copied, 16.7075 s, 64.3 MB/s
+3057:1073741824 bytes (1.1 GB) copied, 16.7113 s, 64.3 MB/s
+3060:1073741824 bytes (1.1 GB) copied, 16.7087 s, 64.3 MB/s
+3063:1073741824 bytes (1.1 GB) copied, 16.7078 s, 64.3 MB/s
+3066:1073741824 bytes (1.1 GB) copied, 16.7106 s, 64.3 MB/s
+3069:1073741824 bytes (1.1 GB) copied, 16.7063 s, 64.3 MB/s
+3072:1073741824 bytes (1.1 GB) copied, 16.7103 s, 64.3 MB/s
+3075:1073741824 bytes (1.1 GB) copied, 16.7086 s, 64.3 MB/s
+3078:1073741824 bytes (1.1 GB) copied, 16.7098 s, 64.3 MB/s
+3081:1073741824 bytes (1.1 GB) copied, 16.7109 s, 64.3 MB/s
+3084:1073741824 bytes (1.1 GB) copied, 16.7087 s, 64.3 MB/s
+3087:1073741824 bytes (1.1 GB) copied, 16.7101 s, 64.3 MB/s
+3088:Start of One Benchmark
+3401:Start of One Benchmark
+3418:Start of One Benchmark
+3535:Start of One Benchmark
+3538:1073741824 bytes (1.1 GB) copied, 15.8353 s, 67.8 MB/s
+3541:1073741824 bytes (1.1 GB) copied, 16.7066 s, 64.3 MB/s
+3544:1073741824 bytes (1.1 GB) copied, 16.7101 s, 64.3 MB/s
+3547:1073741824 bytes (1.1 GB) copied, 16.708 s, 64.3 MB/s
+3550:1073741824 bytes (1.1 GB) copied, 16.7088 s, 64.3 MB/s
+3553:1073741824 bytes (1.1 GB) copied, 16.706 s, 64.3 MB/s
+3556:1073741824 bytes (1.1 GB) copied, 16.7086 s, 64.3 MB/s
+3559:1073741824 bytes (1.1 GB) copied, 16.7084 s, 64.3 MB/s
+3562:1073741824 bytes (1.1 GB) copied, 16.7076 s, 64.3 MB/s
+3565:1073741824 bytes (1.1 GB) copied, 16.7114 s, 64.3 MB/s
+3568:1073741824 bytes (1.1 GB) copied, 16.7108 s, 64.3 MB/s
+3571:1073741824 bytes (1.1 GB) copied, 16.7085 s, 64.3 MB/s
+3574:1073741824 bytes (1.1 GB) copied, 16.7078 s, 64.3 MB/s
+3577:1073741824 bytes (1.1 GB) copied, 16.7128 s, 64.2 MB/s
+3580:1073741824 bytes (1.1 GB) copied, 16.7083 s, 64.3 MB/s
+3583:1073741824 bytes (1.1 GB) copied, 16.7061 s, 64.3 MB/s
+3586:1073741824 bytes (1.1 GB) copied, 16.7089 s, 64.3 MB/s
+3589:1073741824 bytes (1.1 GB) copied, 16.705 s, 64.3 MB/s
+3590:Start of One Benchmark
+3903:Start of One Benchmark
+3922:Start of One Benchmark
+4039:Start of One Benchmark
+4042:1073741824 bytes (1.1 GB) copied, 15.8396 s, 67.8 MB/s
+4045:1073741824 bytes (1.1 GB) copied, 16.7084 s, 64.3 MB/s
+4048:1073741824 bytes (1.1 GB) copied, 16.7062 s, 64.3 MB/s
+4051:1073741824 bytes (1.1 GB) copied, 16.7088 s, 64.3 MB/s
+4054:1073741824 bytes (1.1 GB) copied, 16.7073 s, 64.3 MB/s
+4057:1073741824 bytes (1.1 GB) copied, 16.7083 s, 64.3 MB/s
+4060:1073741824 bytes (1.1 GB) copied, 16.7069 s, 64.3 MB/s
+4063:1073741824 bytes (1.1 GB) copied, 16.7124 s, 64.2 MB/s
+4066:1073741824 bytes (1.1 GB) copied, 16.7085 s, 64.3 MB/s
+4069:1073741824 bytes (1.1 GB) copied, 16.708 s, 64.3 MB/s
+4072:1073741824 bytes (1.1 GB) copied, 16.709 s, 64.3 MB/s
+4075:1073741824 bytes (1.1 GB) copied, 16.707 s, 64.3 MB/s
+4078:1073741824 bytes (1.1 GB) copied, 16.7089 s, 64.3 MB/s
+4081:1073741824 bytes (1.1 GB) copied, 16.7095 s, 64.3 MB/s
+4084:1073741824 bytes (1.1 GB) copied, 16.7136 s, 64.2 MB/s
+4087:1073741824 bytes (1.1 GB) copied, 16.7106 s, 64.3 MB/s
+4090:1073741824 bytes (1.1 GB) copied, 16.7099 s, 64.3 MB/s
+4093:1073741824 bytes (1.1 GB) copied, 16.7078 s, 64.3 MB/s
+4094:Start of One Benchmark
+4407:Start of One Benchmark
+4426:Start of One Benchmark
+4547:Start of One Benchmark
+4550:1073741824 bytes (1.1 GB) copied, 15.8385 s, 67.8 MB/s
+4553:1073741824 bytes (1.1 GB) copied, 16.7054 s, 64.3 MB/s
+4556:1073741824 bytes (1.1 GB) copied, 16.7048 s, 64.3 MB/s
+4559:1073741824 bytes (1.1 GB) copied, 16.7085 s, 64.3 MB/s
+4562:1073741824 bytes (1.1 GB) copied, 16.7134 s, 64.2 MB/s
+4565:1073741824 bytes (1.1 GB) copied, 16.7065 s, 64.3 MB/s
+4568:1073741824 bytes (1.1 GB) copied, 16.7078 s, 64.3 MB/s
+4571:1073741824 bytes (1.1 GB) copied, 16.7072 s, 64.3 MB/s
+4574:1073741824 bytes (1.1 GB) copied, 16.7076 s, 64.3 MB/s
+4577:1073741824 bytes (1.1 GB) copied, 16.7078 s, 64.3 MB/s
+4580:1073741824 bytes (1.1 GB) copied, 16.7062 s, 64.3 MB/s
+4583:1073741824 bytes (1.1 GB) copied, 16.7095 s, 64.3 MB/s
+4586:1073741824 bytes (1.1 GB) copied, 16.7092 s, 64.3 MB/s
+4589:1073741824 bytes (1.1 GB) copied, 16.7064 s, 64.3 MB/s
+4592:1073741824 bytes (1.1 GB) copied, 16.7083 s, 64.3 MB/s
+4595:1073741824 bytes (1.1 GB) copied, 16.7131 s, 64.2 MB/s
+4598:1073741824 bytes (1.1 GB) copied, 16.7094 s, 64.3 MB/s
+4601:1073741824 bytes (1.1 GB) copied, 16.7073 s, 64.3 MB/s
+4602:Start of One Benchmark
+4915:Start of One Benchmark
+4932:Start of One Benchmark
+5051:Start of One Benchmark
+5054:1073741824 bytes (1.1 GB) copied, 15.8395 s, 67.8 MB/s
+5057:1073741824 bytes (1.1 GB) copied, 16.6903 s, 64.3 MB/s
+5060:1073741824 bytes (1.1 GB) copied, 16.7088 s, 64.3 MB/s
+5063:1073741824 bytes (1.1 GB) copied, 16.7106 s, 64.3 MB/s
+5066:1073741824 bytes (1.1 GB) copied, 16.7082 s, 64.3 MB/s
+5069:1073741824 bytes (1.1 GB) copied, 16.7147 s, 64.2 MB/s
+5072:1073741824 bytes (1.1 GB) copied, 16.7008 s, 64.3 MB/s
+5075:1073741824 bytes (1.1 GB) copied, 16.7052 s, 64.3 MB/s
+5078:1073741824 bytes (1.1 GB) copied, 16.7084 s, 64.3 MB/s
+5081:1073741824 bytes (1.1 GB) copied, 16.7076 s, 64.3 MB/s
+5084:1073741824 bytes (1.1 GB) copied, 16.7149 s, 64.2 MB/s
+5087:1073741824 bytes (1.1 GB) copied, 16.7067 s, 64.3 MB/s
+5090:1073741824 bytes (1.1 GB) copied, 16.7086 s, 64.3 MB/s
+5093:1073741824 bytes (1.1 GB) copied, 16.7097 s, 64.3 MB/s
+5096:1073741824 bytes (1.1 GB) copied, 16.7062 s, 64.3 MB/s
+5099:1073741824 bytes (1.1 GB) copied, 16.7083 s, 64.3 MB/s
+5102:1073741824 bytes (1.1 GB) copied, 16.7065 s, 64.3 MB/s
+5105:1073741824 bytes (1.1 GB) copied, 16.7081 s, 64.3 MB/s
+5106:Start of One Benchmark
+5419:Start of One Benchmark
+5440:Start of One Benchmark
+5559:Start of One Benchmark
+5562:1073741824 bytes (1.1 GB) copied, 15.8417 s, 67.8 MB/s
+5565:1073741824 bytes (1.1 GB) copied, 16.7098 s, 64.3 MB/s
+5568:1073741824 bytes (1.1 GB) copied, 16.7079 s, 64.3 MB/s
+5571:1073741824 bytes (1.1 GB) copied, 16.7078 s, 64.3 MB/s
+5574:1073741824 bytes (1.1 GB) copied, 16.7172 s, 64.2 MB/s
+5577:1073741824 bytes (1.1 GB) copied, 16.7077 s, 64.3 MB/s
+5580:1073741824 bytes (1.1 GB) copied, 16.7064 s, 64.3 MB/s
+5583:1073741824 bytes (1.1 GB) copied, 16.7088 s, 64.3 MB/s
+5586:1073741824 bytes (1.1 GB) copied, 16.7095 s, 64.3 MB/s
+5589:1073741824 bytes (1.1 GB) copied, 16.7069 s, 64.3 MB/s
+5592:1073741824 bytes (1.1 GB) copied, 16.7079 s, 64.3 MB/s
+5595:1073741824 bytes (1.1 GB) copied, 16.7143 s, 64.2 MB/s
+5598:1073741824 bytes (1.1 GB) copied, 16.7111 s, 64.3 MB/s
+5601:1073741824 bytes (1.1 GB) copied, 16.7077 s, 64.3 MB/s
+5604:1073741824 bytes (1.1 GB) copied, 16.7087 s, 64.3 MB/s
+5607:1073741824 bytes (1.1 GB) copied, 16.7094 s, 64.3 MB/s
+5610:1073741824 bytes (1.1 GB) copied, 16.7078 s, 64.3 MB/s
+5613:1073741824 bytes (1.1 GB) copied, 16.7066 s, 64.3 MB/s
+5614:Start of One Benchmark
+5927:Start of One Benchmark
+5946:Start of One Benchmark

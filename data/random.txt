@@ -1,0 +1,192 @@
+3:Start of One Benchmark
+58:Start of One Benchmark
+67:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+86:  write: io=1664.0MB, bw=62498KB/s, iops=7, runt= 27264msec
+119:  read : io=1616.0MB, bw=62464KB/s, iops=7, runt= 26492msec
+138:  write: io=1664.0MB, bw=62486KB/s, iops=7, runt= 27269msec
+171:  read : io=1616.0MB, bw=62473KB/s, iops=7, runt= 26488msec
+190:  write: io=1664.0MB, bw=62466KB/s, iops=7, runt= 27278msec
+223:  read : io=1616.0MB, bw=62480KB/s, iops=7, runt= 26485msec
+242:  write: io=1664.0MB, bw=62468KB/s, iops=7, runt= 27277msec
+275:  read : io=1616.0MB, bw=62461KB/s, iops=7, runt= 26493msec
+294:  write: io=1664.0MB, bw=62477KB/s, iops=7, runt= 27273msec
+327:  read : io=1616.0MB, bw=62497KB/s, iops=7, runt= 26478msec
+346:  write: io=1664.0MB, bw=62488KB/s, iops=7, runt= 27268msec
+371:Start of One Benchmark
+390:Start of One Benchmark
+509:Start of One Benchmark
+564:Start of One Benchmark
+573:  read : io=1616.0MB, bw=62468KB/s, iops=7, runt= 26490msec
+592:  write: io=1664.0MB, bw=62488KB/s, iops=7, runt= 27268msec
+625:  read : io=1616.0MB, bw=62466KB/s, iops=7, runt= 26491msec
+644:  write: io=1664.0MB, bw=62468KB/s, iops=7, runt= 27277msec
+677:  read : io=1624.0MB, bw=62763KB/s, iops=7, runt= 26496msec
+696:  write: io=1672.0MB, bw=62667KB/s, iops=7, runt= 27321msec
+729:  read : io=1616.0MB, bw=62478KB/s, iops=7, runt= 26486msec
+748:  write: io=1664.0MB, bw=62482KB/s, iops=7, runt= 27271msec
+781:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+800:  write: io=1664.0MB, bw=62488KB/s, iops=7, runt= 27268msec
+833:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+852:  write: io=1664.0MB, bw=62486KB/s, iops=7, runt= 27269msec
+877:Start of One Benchmark
+898:Start of One Benchmark
+1015:Start of One Benchmark
+1070:Start of One Benchmark
+1079:  read : io=1616.0MB, bw=62459KB/s, iops=7, runt= 26494msec
+1098:  write: io=1664.0MB, bw=62479KB/s, iops=7, runt= 27272msec
+1131:  read : io=1624.0MB, bw=62664KB/s, iops=7, runt= 26538msec
+1150:  write: io=1672.0MB, bw=62580KB/s, iops=7, runt= 27359msec
+1183:  read : io=1616.0MB, bw=62501KB/s, iops=7, runt= 26476msec
+1202:  write: io=1664.0MB, bw=62498KB/s, iops=7, runt= 27264msec
+1235:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+1254:  write: io=1664.0MB, bw=62440KB/s, iops=7, runt= 27289msec
+1287:  read : io=1616.0MB, bw=62501KB/s, iops=7, runt= 26476msec
+1306:  write: io=1664.0MB, bw=62488KB/s, iops=7, runt= 27268msec
+1339:  read : io=1616.0MB, bw=62464KB/s, iops=7, runt= 26492msec
+1358:  write: io=1664.0MB, bw=62415KB/s, iops=7, runt= 27300msec
+1383:Start of One Benchmark
+1400:Start of One Benchmark
+1519:Start of One Benchmark
+1574:Start of One Benchmark
+1583:  read : io=1616.0MB, bw=62501KB/s, iops=7, runt= 26476msec
+1602:  write: io=1664.0MB, bw=62488KB/s, iops=7, runt= 27268msec
+1635:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+1654:  write: io=1664.0MB, bw=62486KB/s, iops=7, runt= 27269msec
+1687:  read : io=1616.0MB, bw=62487KB/s, iops=7, runt= 26482msec
+1706:  write: io=1664.0MB, bw=62468KB/s, iops=7, runt= 27277msec
+1739:  read : io=1616.0MB, bw=62487KB/s, iops=7, runt= 26482msec
+1758:  write: io=1664.0MB, bw=62468KB/s, iops=7, runt= 27277msec
+1791:  read : io=1616.0MB, bw=62487KB/s, iops=7, runt= 26482msec
+1810:  write: io=1664.0MB, bw=62470KB/s, iops=7, runt= 27276msec
+1843:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+1862:  write: io=1664.0MB, bw=62486KB/s, iops=7, runt= 27269msec
+1887:Start of One Benchmark
+1904:Start of One Benchmark
+2023:Start of One Benchmark
+2078:Start of One Benchmark
+2087:  read : io=1616.0MB, bw=62489KB/s, iops=7, runt= 26481msec
+2106:  write: io=1664.0MB, bw=62472KB/s, iops=7, runt= 27275msec
+2139:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+2158:  write: io=1664.0MB, bw=62491KB/s, iops=7, runt= 27267msec
+2191:  read : io=1616.0MB, bw=62501KB/s, iops=7, runt= 26476msec
+2210:  write: io=1664.0MB, bw=62488KB/s, iops=7, runt= 27268msec
+2243:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+2262:  write: io=1664.0MB, bw=62486KB/s, iops=7, runt= 27269msec
+2295:  read : io=1616.0MB, bw=62445KB/s, iops=7, runt= 26500msec
+2314:  write: io=1664.0MB, bw=62468KB/s, iops=7, runt= 27277msec
+2347:  read : io=1616.0MB, bw=62475KB/s, iops=7, runt= 26487msec
+2366:  write: io=1664.0MB, bw=62468KB/s, iops=7, runt= 27277msec
+2391:Start of One Benchmark
+2410:Start of One Benchmark
+2527:Start of One Benchmark
+2582:Start of One Benchmark
+2591:  read : io=1616.0MB, bw=62487KB/s, iops=7, runt= 26482msec
+2610:  write: io=1664.0MB, bw=62470KB/s, iops=7, runt= 27276msec
+2643:  read : io=1616.0MB, bw=62487KB/s, iops=7, runt= 26482msec
+2662:  write: io=1664.0MB, bw=62470KB/s, iops=7, runt= 27276msec
+2695:  read : io=1616.0MB, bw=62487KB/s, iops=7, runt= 26482msec
+2714:  write: io=1664.0MB, bw=62477KB/s, iops=7, runt= 27273msec
+2747:  read : io=1616.0MB, bw=62504KB/s, iops=7, runt= 26475msec
+2766:  write: io=1664.0MB, bw=62493KB/s, iops=7, runt= 27266msec
+2799:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+2818:  write: io=1664.0MB, bw=62486KB/s, iops=7, runt= 27269msec
+2851:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+2870:  write: io=1664.0MB, bw=62486KB/s, iops=7, runt= 27269msec
+2895:Start of One Benchmark
+2912:Start of One Benchmark
+3033:Start of One Benchmark
+3088:Start of One Benchmark
+3097:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+3116:  write: io=1664.0MB, bw=62491KB/s, iops=7, runt= 27267msec
+3149:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+3168:  write: io=1664.0MB, bw=62491KB/s, iops=7, runt= 27267msec
+3201:  read : io=1616.0MB, bw=62497KB/s, iops=7, runt= 26478msec
+3220:  write: io=1664.0MB, bw=62486KB/s, iops=7, runt= 27269msec
+3253:  read : io=1616.0MB, bw=62489KB/s, iops=7, runt= 26481msec
+3272:  write: io=1664.0MB, bw=62461KB/s, iops=7, runt= 27280msec
+3305:  read : io=1616.0MB, bw=62485KB/s, iops=7, runt= 26483msec
+3324:  write: io=1664.0MB, bw=62477KB/s, iops=7, runt= 27273msec
+3357:  read : io=1616.0MB, bw=62353KB/s, iops=7, runt= 26539msec
+3376:  write: io=1664.0MB, bw=62479KB/s, iops=7, runt= 27272msec
+3401:Start of One Benchmark
+3418:Start of One Benchmark
+3535:Start of One Benchmark
+3590:Start of One Benchmark
+3599:  read : io=1616.0MB, bw=62478KB/s, iops=7, runt= 26486msec
+3618:  write: io=1664.0MB, bw=62702KB/s, iops=7, runt= 27175msec
+3651:  read : io=1616.0MB, bw=62501KB/s, iops=7, runt= 26476msec
+3670:  write: io=1664.0MB, bw=62482KB/s, iops=7, runt= 27271msec
+3703:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+3722:  write: io=1664.0MB, bw=62488KB/s, iops=7, runt= 27268msec
+3755:  read : io=1616.0MB, bw=62497KB/s, iops=7, runt= 26478msec
+3774:  write: io=1664.0MB, bw=62486KB/s, iops=7, runt= 27269msec
+3807:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+3826:  write: io=1664.0MB, bw=62486KB/s, iops=7, runt= 27269msec
+3859:  read : io=1616.0MB, bw=62473KB/s, iops=7, runt= 26488msec
+3878:  write: io=1664.0MB, bw=62477KB/s, iops=7, runt= 27273msec
+3903:Start of One Benchmark
+3922:Start of One Benchmark
+4039:Start of One Benchmark
+4094:Start of One Benchmark
+4103:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+4122:  write: io=1664.0MB, bw=62491KB/s, iops=7, runt= 27267msec
+4155:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+4174:  write: io=1664.0MB, bw=62486KB/s, iops=7, runt= 27269msec
+4207:  read : io=1616.0MB, bw=62497KB/s, iops=7, runt= 26478msec
+4226:  write: io=1664.0MB, bw=62488KB/s, iops=7, runt= 27268msec
+4259:  read : io=1616.0MB, bw=62684KB/s, iops=7, runt= 26399msec
+4278:  write: io=1664.0MB, bw=62606KB/s, iops=7, runt= 27217msec
+4311:  read : io=1616.0MB, bw=62485KB/s, iops=7, runt= 26483msec
+4330:  write: io=1664.0MB, bw=62472KB/s, iops=7, runt= 27275msec
+4363:  read : io=1616.0MB, bw=62485KB/s, iops=7, runt= 26483msec
+4382:  write: io=1664.0MB, bw=62470KB/s, iops=7, runt= 27276msec
+4407:Start of One Benchmark
+4426:Start of One Benchmark
+4547:Start of One Benchmark
+4602:Start of One Benchmark
+4611:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+4630:  write: io=1664.0MB, bw=62491KB/s, iops=7, runt= 27267msec
+4663:  read : io=1616.0MB, bw=62492KB/s, iops=7, runt= 26480msec
+4682:  write: io=1664.0MB, bw=62486KB/s, iops=7, runt= 27269msec
+4715:  read : io=1616.0MB, bw=62485KB/s, iops=7, runt= 26483msec
+4734:  write: io=1664.0MB, bw=62470KB/s, iops=7, runt= 27276msec
+4767:  read : io=1616.0MB, bw=62485KB/s, iops=7, runt= 26483msec
+4786:  write: io=1664.0MB, bw=62475KB/s, iops=7, runt= 27274msec
+4819:  read : io=1616.0MB, bw=62501KB/s, iops=7, runt= 26476msec
+4838:  write: io=1664.0MB, bw=62491KB/s, iops=7, runt= 27267msec
+4871:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+4890:  write: io=1664.0MB, bw=62493KB/s, iops=7, runt= 27266msec
+4915:Start of One Benchmark
+4932:Start of One Benchmark
+5051:Start of One Benchmark
+5106:Start of One Benchmark
+5115:  read : io=1616.0MB, bw=62501KB/s, iops=7, runt= 26476msec
+5134:  write: io=1664.0MB, bw=62491KB/s, iops=7, runt= 27267msec
+5167:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+5186:  write: io=1664.0MB, bw=62493KB/s, iops=7, runt= 27266msec
+5219:  read : io=1616.0MB, bw=62497KB/s, iops=7, runt= 26478msec
+5238:  write: io=1664.0MB, bw=62495KB/s, iops=7, runt= 27265msec
+5271:  read : io=1616.0MB, bw=62487KB/s, iops=7, runt= 26482msec
+5290:  write: io=1664.0MB, bw=62475KB/s, iops=7, runt= 27274msec
+5323:  read : io=1616.0MB, bw=62480KB/s, iops=7, runt= 26485msec
+5342:  write: io=1664.0MB, bw=62477KB/s, iops=7, runt= 27273msec
+5375:  read : io=1624.0MB, bw=62761KB/s, iops=7, runt= 26497msec
+5394:  write: io=1672.0MB, bw=62658KB/s, iops=7, runt= 27325msec
+5419:Start of One Benchmark
+5440:Start of One Benchmark
+5559:Start of One Benchmark
+5614:Start of One Benchmark
+5623:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+5642:  write: io=1664.0MB, bw=62488KB/s, iops=7, runt= 27268msec
+5675:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+5694:  write: io=1672.0MB, bw=62512KB/s, iops=7, runt= 27389msec
+5727:  read : io=1616.0MB, bw=62492KB/s, iops=7, runt= 26480msec
+5746:  write: io=1664.0MB, bw=62468KB/s, iops=7, runt= 27277msec
+5779:  read : io=1616.0MB, bw=62492KB/s, iops=7, runt= 26480msec
+5798:  write: io=1664.0MB, bw=62468KB/s, iops=7, runt= 27277msec
+5831:  read : io=1616.0MB, bw=62475KB/s, iops=7, runt= 26487msec
+5850:  write: io=1664.0MB, bw=62470KB/s, iops=7, runt= 27276msec
+5883:  read : io=1616.0MB, bw=62499KB/s, iops=7, runt= 26477msec
+5902:  write: io=1664.0MB, bw=62493KB/s, iops=7, runt= 27266msec
+5927:Start of One Benchmark
+5946:Start of One Benchmark
